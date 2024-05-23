@@ -1,5 +1,5 @@
 from pytorch_wavelets import DWT1DForward, DWT1DInverse  # or simply DWT1D, IDWT1D
-import ptwt
+# import ptwt
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

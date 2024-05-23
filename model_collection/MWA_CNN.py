@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from pytorch_wavelets import DWT1DForward, DWT1DInverse  # or simply DWT1D, IDWT1D
-import ptwt
+# import ptwt
 from einops import rearrange
 #%% wanghuan‘ work
 
